@@ -1,4 +1,4 @@
-![889210](https://user-images.githubusercontent.com/69362509/219097245-e895c5bf-d8f3-4135-8211-00ec7094d289.png)  
+![wp8904016](https://user-images.githubusercontent.com/69362509/219097716-4c7a2dcd-b9c2-4905-ae5e-98fec89ddcb8.jpg)
 Hi there, I'm Samson 👋    
 Professional frontend developer with a particular expertise on React. I love building software solutions using the MERN stack.    
 🔭 I’m currently working on all things React - Redux/Context API, React Authentication and OAuth.     
