@@ -1,6 +1,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![wp8903890](https://user-images.githubusercontent.com/69362509/219126908-d9629dc4-d240-4ef3-b285-9893a21f60e4.jpg)         
-Hi there, I'm Samson 👋    
+<h1>Hi there, I'm Samson 👋</h1>    
 Professional frontend developer with a particular expertise on React. I love building software solutions using the MERN stack.    
 🔭 I’m currently working on all things React - Redux/Context API, React Authentication and OAuth.     
 🌱 I’m currently learning OAuth and PassportJS.     
