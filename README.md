@@ -1,4 +1,4 @@
-[![Samson GitHub stats](https://github-readme-stats.vercel.app/api?sam12389=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Samson GitHub stats](https://github-readme-stats.vercel.app/api?sam12389=anuraghazra)](https://github.com/sam12389/github-readme-stats)
 ![wp8904016](https://user-images.githubusercontent.com/69362509/219097716-4c7a2dcd-b9c2-4905-ae5e-98fec89ddcb8.jpg)          
 Hi there, I'm Samson 👋    
 Professional frontend developer with a particular expertise on React. I love building software solutions using the MERN stack.    
