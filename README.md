@@ -1,3 +1,4 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![wp8904016](https://user-images.githubusercontent.com/69362509/219097716-4c7a2dcd-b9c2-4905-ae5e-98fec89ddcb8.jpg)          
 Hi there, I'm Samson 👋    
 Professional frontend developer with a particular expertise on React. I love building software solutions using the MERN stack.    
@@ -21,5 +22,4 @@ Professional frontend developer with a particular expertise on React. I love bui
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height = "45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height = "45"/>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
