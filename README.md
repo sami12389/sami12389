@@ -8,6 +8,6 @@ Professional frontend developer with a particular expertise on React. I love bui
 ⚡ Fun fact: The first computer “bug” was an actual real-life bug.      
 
 <p align = "left">
-<img src = "![react](https://user-images.githubusercontent.com/69362509/219115671-3da536fb-121d-49ca-a8aa-20b2fd34932f.png)" height = "45">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height = "45"/>
 </p>
 
