@@ -5,8 +5,7 @@
 <li>🔭 I’m currently working on all things React - Redux/Context API, React Authentication and OAuth.</li></br>
 <li>🌱 I’m currently learning OAuth and PassportJS.</li></br>     
 <li>📫 How to reach me: samseifu974@gmail.com</li></br>          
-<li>💼 Checkout my portfolio: https://samsonlemma.com</li></br>        
-<li>⚡ Fun fact: The first computer “bug” was an actual real-life bug.</li></br>          
+<li>💼 Checkout my portfolio: https://samsonlemma.com</li></br>                  
 
 
 <h3>Technologies:</h3>
