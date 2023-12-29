@@ -3,7 +3,7 @@
 <h1>Hi there, I'm Samson 👋</h1>
 <p>A full stack web developer with an ability to design, develop and deploy scalable applications.</p></br>     
 <li>📫 How to reach me: samseifu974@gmail.com</li></br>          
-<li>💼 Checkout my portfolio: https://samsonlemma.com</li></br>                  
+              
 
 
 <h3>Technologies:</h3>
