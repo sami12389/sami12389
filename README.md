@@ -2,7 +2,9 @@
 ![wp8903890-PhotoRoom png-PhotoRoom](https://user-images.githubusercontent.com/69362509/219130412-079e8d44-d813-42b6-a5c0-5e241a1d1309.png)
 <h1>Hi there, I'm Samson 👋</h1>
 <p>A full stack web developer with an ability to design, develop and deploy scalable applications.</p></br>     
-<li>📫 How to reach me: samseifu974@gmail.com</li></br>          
+<li>📫 How to reach me: samseifu974@gmail.com</li></br>
+<li>📫 Portfolio: 
+https://www.samsonlemma.com</li></br>  
               
 
 
